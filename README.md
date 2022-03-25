@@ -1,2 +1,2 @@
-# Signal-Fourier-Transform
-A matlab implementation of FFT
+# Frequency modulation
+A matlab implementation of FM modulation
